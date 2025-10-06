@@ -4,4 +4,5 @@ func main() {
 
 	VariablesDemo()
 	ConstantsDemo()
+	OperatorsDemo()
 }
