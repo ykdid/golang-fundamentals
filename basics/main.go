@@ -5,4 +5,5 @@ func main() {
 	VariablesDemo()
 	ConstantsDemo()
 	OperatorsDemo()
+	ConditionalsDemo()
 }
