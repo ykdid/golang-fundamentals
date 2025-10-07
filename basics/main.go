@@ -6,4 +6,5 @@ func main() {
 	ConstantsDemo()
 	OperatorsDemo()
 	ConditionalsDemo()
+	LoopsDemo()
 }
