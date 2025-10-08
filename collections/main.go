@@ -2,6 +2,7 @@ package main
 
 func main() {
 
-	//ArraysDemo()
-	SlicesDemo()
+	// ArraysDemo()
+	// SlicesDemo()
+	MapsDemo()
 }
