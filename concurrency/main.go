@@ -5,5 +5,6 @@ func main() {
 	// GoroutineDemo()
 	// ChannelsDemo()
 	//BufferedChannelsDemo()
-	SelectDemo()
+	//SelectDemo()
+	SyncPackageDemo()
 }
