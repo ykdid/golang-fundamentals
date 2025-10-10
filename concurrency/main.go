@@ -2,6 +2,7 @@ package main
 
 func main() {
 	
-	GoroutineDemo()
-	ChannelsDemo()
+	// GoroutineDemo()
+	// ChannelsDemo()
+	BufferedChannelsDemo()
 }
