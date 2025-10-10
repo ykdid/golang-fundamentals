@@ -2,9 +2,9 @@ package main
 
 func main() {
 	
-	// GoroutineDemo()
-	// ChannelsDemo()
-	//BufferedChannelsDemo()
-	//SelectDemo()
+	GoroutineDemo()
+	ChannelsDemo()
+	BufferedChannelsDemo()
+	SelectDemo()
 	SyncPackageDemo()
 }
