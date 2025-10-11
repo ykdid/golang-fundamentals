@@ -15,4 +15,3 @@ func ChannelsDemo() {
 	msg := <-ch
 	fmt.Println(msg)
 }
-
